@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backups
+*.bak
+*.swp
+*~
+.vscode/
+.idea/
+
+# Tijdelijke / draft files
+draft-*.md
+tmp/
