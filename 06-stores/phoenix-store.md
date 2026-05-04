@@ -11,8 +11,6 @@ De Phoenix store geeft items in ruil voor Phoenix Tokens (verkregen uit Phoenix 
 | Very Rare | Very Rare Prize Token | Paars |
 | Rare | Rare Prize Token | Blauw |
 
-**Belangrijk:** een hogere tier token kan **niet** voor een lagere tier item gebruikt worden. Een UR token kan dus geen Rare item kopen. Tokens hebben geen vervaldatum.
-
 ## Tier inhoud + bezit-status
 
 ### Epic tier
